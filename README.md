@@ -11,13 +11,3 @@ This is an Ecommerce website developed using the Spring Boot framework. The webs
 - Cart Management
 - Checkout Process
 
-## Prerequisites
-
-- Java JDK 8 or later
-- Maven
-- MySQL Database
-
-## Setup
-
-1. Clone the repository:
-
